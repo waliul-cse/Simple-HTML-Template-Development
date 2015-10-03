@@ -1,0 +1,1 @@
+Git commit panel is done
